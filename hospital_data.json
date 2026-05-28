@@ -1,0 +1,21 @@
+{
+    "Doctor": [
+        {
+        "Name": "Dr. Smith",
+        "Specialization": "Cardiologist",
+        "Experience": 15  ,
+        "Contact": "123-456-7890",
+        "Timing" : "11:00 AM - 5:00 PM",
+        "fee": 200
+        },  
+    
+        { 
+        "Name": "John Doe",
+        "Specialization": "General Physician",
+        "Experience": 10,
+        "Timing" :"11:00 AM - 5:00 PM",
+        "fee": 150
+        } 
+              ],
+"admission_charge": 1500
+}
